@@ -11,7 +11,6 @@
 
 # Name of website
 title: Mein Erster Blog
-language: de
 
 # Your name to show in the footer
 # author: Noch Nicht Verraten
@@ -21,7 +20,7 @@ language: de
 ###############################################
 
 navbar-links:
-  Über Mich: "aboutme"
+  Ich: "aboutme"
   Links (Englisch):
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
