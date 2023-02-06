@@ -7,7 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [Gedanken]
 ---
 
-Zitate als Motto
+**Zitate als Motto**
 
 > "Sofern wir in die Natur eingreifen, haben wir strengstens auf die Wiederherstellung ihres Gleichgewichts zu achten." 
 
